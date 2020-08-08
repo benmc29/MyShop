@@ -72,6 +72,4 @@ namespace MyShop.WebUI.Tests.Mocks
             }
         }
     }
-
-
 }
